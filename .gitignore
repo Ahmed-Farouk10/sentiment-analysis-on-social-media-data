@@ -1,0 +1,23 @@
+ata files (large and regeneratable)
+
+data/Reddit_Data.csv data/Twitter_Data.csv data/Reddit_Cleaned.csv data/Twitter_Cleaned.csv data/X_reddit_nn.npy data/X_twitter_nn.npy data/X_reddit_tfidf.npy data/X_twitter_tfidf.npy data/Twitter_Predictions_NN.csv data/Twitter_Predictions_TFIDF.csv
+
+Model files
+
+data/nn_model.h5 data/tfidf_model.pkl data/tfidf_vectorizer.pkl data/tokenizer.pkl
+
+Python temporary files
+
+pycache/ *.pyc
+
+Environment files
+
+env/ venv/ *.env
+
+IDE-specific files
+
+.idea/ .vscode/ *.swp
+
+OS generated files
+
+.DS_Store Thumbs.db
